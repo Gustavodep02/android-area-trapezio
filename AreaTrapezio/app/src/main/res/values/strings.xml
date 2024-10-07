@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AreaTrapezio</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="base_maior">Base Maior</string>
+    <string name="base_menor">Base Menor</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado:</string>
+</resources>
